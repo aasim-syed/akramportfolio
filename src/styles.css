@@ -15,3 +15,5 @@ html[data-theme=light] .three-core{mix-blend-mode:multiply;opacity:1;filter:cont
 @media(max-width:720px){.hero{min-height:auto;padding:78px 6vw 54px}.hero h1{margin-top:64px}.hero-bottom{margin-top:56px}.proof-strip{padding-top:23px;margin-top:26px}.work{padding:72px 6vw}.section-head{margin-bottom:30px}.project-card{height:370px}.about{padding:72px 6vw}.about>span{margin-bottom:32px}.about p{margin:27px 0}.contact{min-height:auto;padding:76px 6vw 46px}.contact h2{margin:26px 0 32px}.contact-foot{margin-top:65px;gap:22px}}
 
 @media(max-width:720px){.hero h1{margin:64px 0 0}.hero-bottom{margin-top:42px}.proof-strip{margin-top:22px}.hero>p{max-width:280px}}
+
+@media(max-width:720px){.hero{display:block!important;height:auto!important;min-height:0!important;padding-top:78px!important;padding-bottom:42px!important}.hero-bottom{display:flex!important;margin-top:38px!important}.proof-strip{display:flex!important;margin-top:20px!important}.hero h1{margin:58px 0 0!important}}
